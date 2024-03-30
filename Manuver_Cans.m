@@ -1,4 +1,4 @@
-function Manuver_Cans(mat_R_T_G, mat_R_T_M)
+function help = Manuver_Cans(mat_R_T_M, mat_R_T_G)
     % Manuver Cans
     
 
